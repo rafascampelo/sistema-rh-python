@@ -4,16 +4,21 @@ A solução desenvolvida para a AtmosFeras S.A visa qualificar candidatos à vag
 Objetivo da Solução
 A aplicação permite a administração de uma lista de colaboradores, incluindo nome, documentos, cargo e salário, proporcionando diferentes formas de visualização e filtragem dos dados.
 
+o cadastro é feito dentro do codigo onde você pode adicionar quantos colaboradores quiser dentro do dicionário
+
 Funcionalidades
 Listar Colaboradores
 
-Exibe todos os colaboradores cadastrados, apresentando suas informações de forma organizada.
+listar todos sem restrições
+
+listar todos os colaboradores cadastrados, apresentando suas informações de forma organizada.
 Relatório de Colaboradores em Ordem Alfabética
 
-Exibe a lista de colaboradores ordenada alfabeticamente pelo nome, facilitando a busca e consulta.
+listar colaboradores ordenada alfabeticamente pelo nome, facilitando a busca e consulta.
 Relatório de Colaboradores por Ordem de Salário
 
-Exibe a lista de colaboradores ordenada do menor para o maior salário, permitindo análise salarial.
+listar colaboradores ordenada do menor para o maior salário, permitindo análise salarial.
+
 Listar Colaboradores por Cargo
 Permite que o usuário digite um cargo específico e visualize apenas os colaboradores que ocupam essa função.
 
