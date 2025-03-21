@@ -15,11 +15,11 @@ Relatório de Colaboradores por Ordem de Salário
 
 Exibe a lista de colaboradores ordenada do menor para o maior salário, permitindo análise salarial.
 Listar Colaboradores por Cargo
-
 Permite que o usuário digite um cargo específico e visualize apenas os colaboradores que ocupam essa função.
-Sair
 
+Sair
 Finaliza a execução do programa.
+
 Características Técnicas
 O sistema será implementado utilizando Python, garantindo simplicidade e eficiência.
 A aplicação utilizará listas e dicionários para armazenar os dados dos colaboradores.

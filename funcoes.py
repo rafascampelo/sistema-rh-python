@@ -1,4 +1,4 @@
-# Lista de colaboradores
+# Lista de colaboradores em um dicionário
 colaboradores = [
     {"nome": "Carlos Silva", "documento": "123456789",
         "cargo": "Vendedor", "salario": 3000},
